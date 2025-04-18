@@ -1,0 +1,6 @@
+product_id,package_id,sku,type,name,brand,has_serial_number,upc,external_code,vat,ean,dimensions.height,dimensions.width,dimensions.length,dimensions.weight,organization_id,quantity_in_package,storage_extras.warehouse_id,storage_extras.scriptic_stock,storage_extras.available_stock,storage_extras.reserved_stock,storage_extras.lot,storage_extras.expiry_date
+1526923,,123,product,Instant Tunnel,,0,321,321,1,alt_test,2,4,15,0.06,946,,6803,0,0,0,1,9999-12-31 23:59:59
+1538601,,5474676-kknknj,product,produs de teste pentru afisare pe receptie lungita,,0,2.45359809809542E+033,2.45359809809542E+033,0,alt_test,1,1,1,1,946,,-,0,0,0,1,-
+1538602,,etet-eh-he-h-eh-g-e-ge-g-e-g-e-g-ea-d-s-dgsfhbsfh-r-h-rs-h-srh,product,Asfagegafsf,,0,3536465,3536465,0,alt_test,1,1,1,1,946,,-,0,0,0,1,-
+1538668,,3566,product,test api,,0,44gg,gryr5,19,alt_test,1,1,1,1,946,,-,0,0,0,1,-
+1538669,,353466,product,test api,,0,4444gg,gr45yr5,19,alt_test,1,1,1,1,946,,-,0,0,0,1,-
